@@ -114,7 +114,7 @@ pip install -r requirements.txt
 Some test cases required FEniCS to generate and handle function data. [Click here](https://fenicsproject.org/download/archive/) for installation instructions.
 
 ## Data
-The *data* can be downloaded from [https://doi.org/10.5281/zenodo.14524524](https://doi.org/10.5281/zenodo.14524524). We provide both the generated data and the trained SHRED-ROMs to replicate the results presented in the manuscript in few minutes.
+The *data* can be downloaded from [![DOI](https://zenodo.org/badge/876283884.svg)](https://doi.org/10.5281/zenodo.14524524). We provide both the generated data and the trained SHRED-ROMs to replicate the results presented in the manuscript in few minutes.
 
 ## Shallow Water
 `SWE.ipynb` presents the Shallow Water test case where we reconstruct the high-dimensional velocity on a sphere, whose dynamics is described by the Shallow Water Equations, starting from few sensor data.
