@@ -174,7 +174,7 @@ If you use this code for your work, please cite
   number = {1},
   journal = {Nature Communications},
   publisher = {Springer Science and Business Media LLC},
-  author = {Tomasetto,  Matteo and Williams,  Jan P. and Braghin,  Francesco and Manzoni,  Andrea and Kutz,  J. Nathan},
+  author = {Tomasetto, Matteo and Williams, Jan P. and Braghin, Francesco and Manzoni, Andrea and Kutz, J. Nathan},
   year = {2025},
   month = nov 
 }
