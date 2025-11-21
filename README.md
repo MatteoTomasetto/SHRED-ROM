@@ -1,6 +1,6 @@
 # Reduced order modeling with shallow recurrent decoder networks
 
-[![arXiv](https://img.shields.io/badge/PREPRINT-FF00FF)](https://arxiv.org/abs/2502.10930)
+[![Paper](https://img.shields.io/badge/PAPER-FF00FF)](http://dx.doi.org/10.1038/s41467-025-65126-y)
 [![Data](https://img.shields.io/badge/DATA-008080)](https://doi.org/10.5281/zenodo.14524524)
 [![Video](https://img.shields.io/badge/VIDEO-bdb76b)](https://www.youtube.com/watch?v=8rtGmVxfkcQ)
 
@@ -165,13 +165,17 @@ The *data* can be downloaded from [![DOI](https://zenodo.org/badge/876283884.svg
 ## Cite
 If you use this code for your work, please cite
 ```bibtex
-@misc{tomasetto2025shredrom,
-      title={Reduced Order Modeling with Shallow Recurrent Decoder Networks}, 
-      author={Matteo Tomasetto and Jan P. Williams and Francesco Braghin and Andrea Manzoni and J. Nathan Kutz},
-      year={2025},
-      eprint={2502.10930},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2502.10930}, 
+@article{Tomasetto2025,
+  title = {Reduced order modeling with shallow recurrent decoder networks},
+  volume = {16},
+  ISSN = {2041-1723},
+  url = {http://dx.doi.org/10.1038/s41467-025-65126-y},
+  DOI = {10.1038/s41467-025-65126-y},
+  number = {1},
+  journal = {Nature Communications},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Tomasetto,  Matteo and Williams,  Jan P. and Braghin,  Francesco and Manzoni,  Andrea and Kutz,  J. Nathan},
+  year = {2025},
+  month = nov 
 }
 ```
