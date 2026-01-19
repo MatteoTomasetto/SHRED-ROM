@@ -1,7 +1,6 @@
 import torch
 from torch.utils.data import DataLoader
 from copy import deepcopy
-from IPython.display import clear_output as clc
 from .processdata import mse, mre, num2p
 
 class SHRED(torch.nn.Module):
@@ -9,7 +8,6 @@ class SHRED(torch.nn.Module):
     def __init__(self, input_size, output_size, hidden_size = 64, hidden_layers = 2, decoder_sizes = [350, 400], dropout = 0.0):
         '''
         SHRED model definition
-        
         
         Inputs
         	input size (e.g. number of sensors)
